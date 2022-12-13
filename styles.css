@@ -1,0 +1,54 @@
+html {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  html, body {
+    margin: 50px;
+    padding: 50px;
+    background-color: aqua;
+    align-content: center;
+  }
+  
+  .logo{
+    text-align: center;
+    background-color: palevioletred;
+    color:aquamarine;
+    padding: 0.5em;
+  }
+  
+  #character-bar {
+    height: 15vh;
+    background: yellowgreen;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 3vh;
+  }
+  
+  #character-bar span {
+    padding: 20%;
+    height: 80%;
+    width: 8vw;
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+    align-items: center;
+    border-radius: 2em;
+    border: 1px turquoise;
+  }
+  
+  .characterInfo{
+    height: 550px;
+    padding: 30px;
+    font-size: 24px;
+    border: dotted;
+    text-align: center;
+  }
+  
+
+  
+  #image{
+    width: 300px;
+    height: 300px;
+  }
+  
